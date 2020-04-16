@@ -7,8 +7,8 @@ Docker: nlesc/magma:latest
 
 ## Commands to be run
 
-magma init_db
-magma add_structure
-magma read_ms_data
-magma annotate
+1. magma init_db
+1. magma add_structure
+1. magma read_ms_data
+1. magma annotate
 
